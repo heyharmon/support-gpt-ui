@@ -18,10 +18,18 @@
     <hr class="my-4">
     
       <p class="text-gray-500 font-bold mb-1">Sample prompts</p>
-      <p class="text-gray-500 mb-1 italic">What font filetype do we need for the website?</p>
+      <ul class="text-gray-500 list-disc list-inside mb-3">
+        <li>What font filetype do we need for the website?</li>
+        <li>How does bloomcu secure a wordpress theme?</li>
+        <li>Is a button color change something that is in-scope?</li>
+        <li>How could the context be improved for the following question: [insert your question]?</li>
+      </ul>
+
+      <!-- <p class="text-gray-500 mb-1 italic">What font filetype do we need for the website?</p>
       <p class="text-gray-500 mb-1 italic">How does bloomcu secure a wordpress theme?</p>
       <p class="text-gray-500 mb-1 italic">Is a button color change something that is in-scope?</p>
-      <p class="text-gray-500 mb-3 italic">How could the context be improved for the following question: [insert your question]?</p>
+      <p class="text-gray-500 mb-3 italic">How could the context be improved for the following question: [insert your question]?</p> -->
+      
       <hr class="my-4">
 
       <p class="text-gray-500 font-bold mb-1">About</p>

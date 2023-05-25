@@ -19,10 +19,14 @@
     
       <p class="text-gray-500 font-bold mb-1">Sample prompts</p>
       <ul class="text-gray-500 list-disc list-inside mb-3">
-        <li>What font filetype do we need for the website?</li>
+        <!-- <li>What font filetype do we need for the website?</li>
         <li>How does bloomcu secure a wordpress theme?</li>
         <li>Is a button color change something that is in-scope?</li>
-        <li>How could the context be improved for the following question: [insert your question]?</li>
+        <li>How could the context be improved for the following question: [insert your question]?</li> -->
+
+        <li>I want to implement a chat window on my website, can you set this up?</li>
+        <li>A third party widget on our website is not working. Can you fix it?</li>
+        <li>We need to update the call to action “Apply now” and “Open account” across our website.</li>
       </ul>
 
       <!-- <p class="text-gray-500 mb-1 italic">What font filetype do we need for the website?</p>
@@ -33,7 +37,8 @@
       <hr class="my-4">
 
       <p class="text-gray-500 font-bold mb-1">About</p>
-      <p class="text-gray-500">This Ai is trained on 200 of our Nuclino articles that start with "How", "What", "Where" consolidated into one <a class="underline text-indigo-600" href="https://docs.google.com/document/d/1qmG5KtGh7eanbgM_2fHagz11uhJ-USlHiZQs1nlSJxA/edit?usp=sharing">Google Doc</a>. The training data format is subpar because comes in markdown format from Nuclino. The article titles are missing as well. Despite this, the Ai is able to provide useful responses.</p>
+      <!-- <p class="text-gray-500">This Ai is trained on 200 of our Nuclino articles that start with "How", "What", "Where" consolidated into one <a class="underline text-indigo-600" href="https://docs.google.com/document/d/1qmG5KtGh7eanbgM_2fHagz11uhJ-USlHiZQs1nlSJxA/edit?usp=sharing">Google Doc</a>. The training data format is subpar because comes in markdown format from Nuclino. The article titles are missing as well. Despite this, the Ai is able to provide useful responses.</p> -->
+      <p class="text-gray-500">This Ai is trained on <a class="underline text-indigo-600" href="https://docs.google.com/document/d/1BuQ_WQCNZiDOaJ9C-yO55dNWZ_bhWUy9UJvn2LWTH_8/edit?usp=sharing">How do I know if I should bill a client for a support request or not? (Is the request in-scope or out-of-scope for a Support subscription?)</a>.</p>
   </NuxtLayout>
 </template>
 
